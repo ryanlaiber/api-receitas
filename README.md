@@ -1,6 +1,6 @@
 # api-receitas
 
-Projeto de contrução de API RESTFUL que interage com o banco de dados MongoDB e realiza o CRUD de de "recipes" e "users".
+Projeto de construção de API RESTFUL que interage com o banco de dados MongoDB e realiza o CRUD de de "recipes" e "users".
 Neste projeto foram desenvolvidas requisições com autenticação, onde é necessário um token válido para que elas sejam executadas.
 Para gerar um token de autenticação válido é necessário realizar receber o token retornado pela requisição de "login" com um usuário 
 cadastrado pela requisição .post "/users".
